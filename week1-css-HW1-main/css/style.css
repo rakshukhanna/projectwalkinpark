@@ -1,0 +1,36 @@
+body{
+  font-family:fantasy;
+  font-size: 120%;
+}
+header {
+  background-color: rgb(189, 255, 123);
+
+}
+nav{
+  background-color: rgb(37, 216, 186);
+}
+main {
+  background-color: rgb(32, 112, 178);
+  font-size: 100%;
+ 
+}
+footer{
+  background-color: mediumspringgreen;
+  
+}
+
+ li{
+  display: inline-block;
+    width: 110px; 
+    padding: 10px;
+    margin: 5px;
+    background-color: lightblue;
+    text-align: center;
+  }
+  h1 {
+  text-align: center; 
+  color: #9815b3; 
+}
+p{
+  line-height: 1.3;
+}
